@@ -1,6 +1,6 @@
 console.log('hello world');
 
 function hello(string : String){
-    console.log('hello' + string);
+    console.log('hello' + string );
 }
-hello(1);
+hello(' ramona ');
